@@ -16,7 +16,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## Overview
 
 ### Screenshot
-
+- Live (https://nft-card-component-teal.vercel.app/)
 
 ## My process
 
